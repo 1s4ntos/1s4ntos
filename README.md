@@ -5,4 +5,4 @@
 - 📫 Contate-me no e-mail: ryansveloso2017@gmail.com
 
 
-![ARyan Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Ryan Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
