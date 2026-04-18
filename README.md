@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ryan Santos
 
 - 🔭 Cursando faculdade Ciência da Computação;
-- 🌱 Estudando Banco de Dados;
+- 🌱 Estudando Programação web;
 - 📫 Contate-me no e-mail: ryansveloso2017@gmail.com
 
 
